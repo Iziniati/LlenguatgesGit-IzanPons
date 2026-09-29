@@ -1,1 +1,1 @@
-<%@ Page Language="C#" %> Hola, Ramis!
+<%@ Page Language="C#" %> Hola, Menorca!
